@@ -1,13 +1,13 @@
----
-title: "SeonWoo Lee title"
-date: 2020-04-04
----
-
 theme: minima
 title: SeonWoo Lee title
 author: SeonWoo Lee
 email: zzz664@naver.com
 description: Practice github
+
+---
+title: "SeonWoo Lee title"
+date: 2020-04-04
+---
 
 # social links
 twitter_username: none # DO NOT include the @ character, or else the build will fail!
